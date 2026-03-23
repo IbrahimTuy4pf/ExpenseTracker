@@ -1,14 +1,5 @@
-# Node.js / Backend
-node_modules/
 .env
-
-# Frontend / React / build folders
-build/
+env.examples.txt
+node_modules/
 dist/
-
-# VS Code settings
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
+build/
